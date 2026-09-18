@@ -6,7 +6,7 @@
 
 ---
 
-### 👋 Hi, I'm John Roli!
+### 👋 Hi, I'm John Pogi!
 
 I'm a **BS Information Technology graduate** from Cebu Technological University. I build full-stack web applications and have hands-on IT support experience from my internship at **VisayasMed Hospital**. I enjoy solving technical problems and building things that actually work.
 
